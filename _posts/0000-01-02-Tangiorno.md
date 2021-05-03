@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Déjà vu, I just been in this place before !
+Bordel, mais je suis sur la plage privéé de Marc Dutroux ou quoi
 Use the left arrow to go back!
